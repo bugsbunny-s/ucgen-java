@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch harmonik",
+            "request": "launch",
+            "mainClass": "harmonik",
+            "projectName": "zz_6fce1e1e"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
